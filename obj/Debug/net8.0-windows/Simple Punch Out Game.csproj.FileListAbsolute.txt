@@ -1,0 +1,17 @@
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple_Punch_Out_Game.Form1.resources
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple_Punch_Out_Game.Properties.Resources.resources
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple Punch Out Game.csproj.GenerateResource.cache
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple Punch Out Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple Punch Out Game.AssemblyInfoInputs.cache
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple Punch Out Game.AssemblyInfo.cs
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple Punch Out Game.csproj.CoreCompileInputs.cache
+C:\Coder-Work\Simple Punch Out Game\bin\Debug\net8.0-windows\Simple Punch Out Game.exe
+C:\Coder-Work\Simple Punch Out Game\bin\Debug\net8.0-windows\Simple Punch Out Game.deps.json
+C:\Coder-Work\Simple Punch Out Game\bin\Debug\net8.0-windows\Simple Punch Out Game.runtimeconfig.json
+C:\Coder-Work\Simple Punch Out Game\bin\Debug\net8.0-windows\Simple Punch Out Game.dll
+C:\Coder-Work\Simple Punch Out Game\bin\Debug\net8.0-windows\Simple Punch Out Game.pdb
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple Punch Out Game.dll
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\refint\Simple Punch Out Game.dll
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple Punch Out Game.pdb
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\Simple Punch Out Game.genruntimeconfig.cache
+C:\Coder-Work\Simple Punch Out Game\obj\Debug\net8.0-windows\ref\Simple Punch Out Game.dll
